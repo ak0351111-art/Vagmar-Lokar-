@@ -1,0 +1,6 @@
+{
+  "name": "Vagmar Lokar",
+  "description": "Artisanal woolcraft, heritage textile guide & secure digital locker vault with interactive pattern studio and yarn calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
